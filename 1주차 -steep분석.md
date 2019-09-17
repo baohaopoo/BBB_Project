@@ -2,7 +2,7 @@
 
 + **STEEP 분석**
 
-![STEEP](C:\Users\soyeon\Desktop\졸업작품\STEEP.png)
+[![STEEP](C:\Users\soyeon\Desktop\졸업작품\graduation_project\STEEP.png)]()
 
 ------
 
